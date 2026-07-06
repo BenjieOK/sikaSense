@@ -1,0 +1,10 @@
+{
+  "name": "SikaSense",
+  "short_name": "SikaSense",
+  "description": "Daily profit intelligence for West African social commerce",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#0a0d0c",
+  "theme_color": "#0a0d0c",
+  "icons": []
+}

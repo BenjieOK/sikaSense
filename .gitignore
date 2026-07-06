@@ -1,0 +1,22 @@
+node_modules
+.next
+.env.local
+.env*.local
+.DS_Store
+npm-debug.log*
+next-env.d.ts
+
+# AI agent tools
+.claude
+.codex
+.qodo
+.cursor
+.windsurf
+.aider*
+.continue
+.cline
+.roo
+.trae
+.amazonq
+.gemini
+CLAUDE.local.md
